@@ -1,4 +1,4 @@
-📄 AI PDF Assistant
+###📄 AI PDF Assistant
 An intelligent, text-based PDF assistant that allows users to upload documents and engage in a natural language conversation with the content. Built using Streamlit, LangChain, and Google Gemini Pro.
 
 🚀 Click here to access the Live App
