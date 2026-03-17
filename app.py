@@ -9,7 +9,7 @@ from langchain_classic.chains import RetrievalQA
 import tempfile
 
 
-google_api_key=st.secrets("GOOGLE_API_KEY")
+google_api_key = st.secrets["GOOGLE_API_KEY"]
 
 st.set_page_config(page_title="RAG Document Chat",layout="wide")
 
